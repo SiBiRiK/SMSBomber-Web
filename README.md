@@ -1,7 +1,7 @@
 <h1>
   <br>
   <br>
-  SMS Bomber by SvPg Corporation
+  SMS Bomber by <a href='https://t.me/svpgcorporation'>SvPg Corporation</a>
   <br>
 </h1>
 
