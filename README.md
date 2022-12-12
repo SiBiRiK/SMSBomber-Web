@@ -48,3 +48,7 @@ request.get(
    * Лог отправки сообщений
    * Список активных атак в WEB версии
    * ~~Остановка атак в WEB версии~~
+
+
+### Присоединяйся к нам
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/svpgcorporation)
