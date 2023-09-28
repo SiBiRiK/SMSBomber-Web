@@ -1,0 +1,17 @@
+{
+  "name": "smsbomber-web-main",
+  "version": "1.0.0",
+  "description": "<h1>   <br>   <br>   SMS Bomber by <a href='https://t.me/svpgcorporation'>SvPg Corporation</a>   <br> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "open": "^7.4.2",
+    "yargs": "^17.7.2"
+  }
+}
